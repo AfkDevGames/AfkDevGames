@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AfkDevGames
-- 👀 I’m interested in making video games, and learning to code in general. 
+- 👀 I’m interested in making video games and doing all kinds of projects. 
 - 🌱 I’m currently learning C#, Unity, JavaScript, SQL
 - 📫 How to reach me 
 - Email: afkdevalex@gmail.com
