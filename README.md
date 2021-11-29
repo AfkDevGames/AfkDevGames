@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AfkDevGames
 - 👀 I’m interested in making video games, and learning to code in general. 
 - 🌱 I’m currently learning C#, Unity, JavaScript, SQL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - 
 
 <!---
