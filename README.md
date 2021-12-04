@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AfkDevGames
+- 👋 Hi, I’m @AfkDevGames(Aleksa Nevojdic)
 - 👀 I’m interested in making video games and doing all kinds of projects. 
-- 🌱 I’m currently learning C#, Unity, JavaScript, SQL, PHP
+- 🌱 I’m currently learning C#, Unity, JavaScript, SQL, PHP,Java
 - 📫 How to reach me 
 - Twitter: https://twitter.com/AfkDevGames
 - Itch.io: https://afkdevalex.itch.io/
